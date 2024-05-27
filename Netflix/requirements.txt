@@ -4,6 +4,5 @@ django-filter~=24.2
 psycopg2-binary
 pytest==6.2.4
 pytest-django==4.3.0
-drf_yasg
+drf_yasg==1.21.7
 pytest-pythonpath==0.7.4
-pytest
