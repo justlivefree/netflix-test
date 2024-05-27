@@ -1,8 +1,9 @@
-Django~=3.2.2
-djangorestframework~=3.12.4
-drf-yasg~=1.20.0
-psycopg2-binary~=2.8.6
+Django~=5.0.4
+djangorestframework~=3.15.1
+django-filter~=24.2
+psycopg2-binary
 pytest==6.2.4
 pytest-django==4.3.0
-pytest-pythonpath==0.7.2
-django-filter==23.5
+drf_yasg
+pytest-pythonpath==0.7.4
+pytest
