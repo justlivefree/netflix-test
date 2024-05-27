@@ -24,6 +24,8 @@ jobs:
       - name: Install Requirements
         working-directory: ./Netflix
         run: pip install -r requirements.txt
+      - name: Setuptools
+        run: pip install setuptools
       - name: Database Migrate
         working-directory: ./Netflix
         run: python manage.py migrate
